@@ -1,5 +1,5 @@
 /*
- * Sample code for basic C app which loops forever
+ * Sample code for basic C++ app which loops forever
  */
 
 #include <stdio.h>
